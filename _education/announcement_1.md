@@ -5,5 +5,5 @@ inline: true
 ---
 
 [Kyunghee University](https://www.khu.ac.kr),Yongin, South Korea\
-B.S in Electrical Engineering \
+B.S in Electronic Engineering
 
