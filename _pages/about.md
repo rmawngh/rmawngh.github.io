@@ -8,7 +8,6 @@ profile:
   align: right
   image: HongjaeLee.jpg
   address: >
-    <p>jimmy9704@korea.ac.kr</p>
     <p>13, Jongam-ro, Seongbuk-gu, Seoul, Republic of Korea</p>
     <p>Room#402</p>
 
