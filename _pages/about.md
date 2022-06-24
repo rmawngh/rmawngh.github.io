@@ -8,8 +8,7 @@ profile:
   align: right
   image: HongjaeLee.jpg
   address: >
-    <p>13, Jongam-ro, Seongbuk-gu,</p>
-    <p>Seoul, Republic of Korea</p>
+    <p>13, Jongam-ro, Seongbuk-gu, Seoul, South Korea</p>
     <p>Room#402</p>
 
 news: true  # includes a list of news items
