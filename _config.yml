@@ -156,6 +156,7 @@ plugins:
   - jekyll-diagrams
   - jekyll-email-protect
   - jekyll-feed
+  - jekyll-github-metadata
   - jekyll-imagemagick
   - jekyll-minifier
   - jekyll-paginate-v2
