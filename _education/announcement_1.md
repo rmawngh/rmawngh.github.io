@@ -1,9 +1,9 @@
 ---
 layout: post
-start_end: "Mar, 2016 - Feb, 2022"
+start_end: "Mar, 2015 - Feb, 2021"
 inline: true
 ---
 
-[Kyunghee University](https://www.khu.ac.kr),Yongin, South Korea\
-B.S in Electronic Engineering
+[Dongguk University](https://www.dongguk.edu/main),Seoul, South Korea\
+B.S in Multimedia Engineering
 
