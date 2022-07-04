@@ -6,7 +6,7 @@ subtitle: Integrated M.S. & Ph.D. student in the <a href='https://sites.google.c
 
 profile:
   align: right
-  image: JuhoKim.jpg
+  image: JuhoKim.JPG
   address: >
     <p>73-15, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea 02855</p>
     <p>Room#402</p>
