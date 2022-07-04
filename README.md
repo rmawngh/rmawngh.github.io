@@ -1,4 +1,4 @@
-# JuHo Kim
+# Juho Kim
 [my homepage](https://rmawngh.github.io)
 
 
