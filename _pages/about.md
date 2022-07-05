@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Integrated M.S. & Ph.D. student in the <a href='https://sites.google.com/view/deepiplab/home?authuser=0'>Deep Image Processing Lab</a> at <a href='https://www.korea.ac.kr'>Korea University</a>. 
+subtitle: Integrated M.S. student in the <a href='https://sites.google.com/view/deepiplab/home?authuser=0'>Deep Image Processing Lab</a> at <a href='https://www.korea.ac.kr'>Korea University</a>. 
 
 profile:
   align: right
@@ -19,11 +19,11 @@ honors: false
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a graduate student in the [Deep Image Processing Lab](https://sites.google.com/view/deepiplab/home?authuser=0), advised by Prof. [Seung-Won Jung](https://sites.google.com/view/deepiplab/home?authuser=0). I am currently pursuing the MS & Ph.D degree in Electrical Engineering at [Korea University](www.korea.ac.kr) in Seoul, Korea. Previously, I completed my B.S. in Multimedia Engineering at [Dongguk University](https://www.dongguk.edu/main#none). My research interests are :
+I am a graduate student in the [Deep Image Processing Lab](https://sites.google.com/view/deepiplab/home?authuser=0), advised by Prof. [Seung-Won Jung](https://sites.google.com/view/deepiplab/home?authuser=0). I am currently pursuing the MS degree in Electrical Engineering at [Korea University](www.korea.ac.kr) in Seoul, Korea. Previously, I completed my B.S. in Multimedia Engineering at [Dongguk University](https://www.dongguk.edu/main#none). My research interests are :
 - Computer Vision
 - Deep Learning
-- Domain Adaptation
 - Depth estimation
+- Domain Adaptation
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
