@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Integrated M.S. student in the <a href='https://sites.google.com/view/deepiplab/home?authuser=0'>Deep Image Processing Lab</a> at <a href='https://www.korea.ac.kr'>Korea University</a>. 
+subtitle: M.S. student in the <a href='https://sites.google.com/view/deepiplab/home?authuser=0'>Deep Image Processing Lab</a> at <a href='https://www.korea.ac.kr'>Korea University</a>. 
 
 profile:
   align: right
