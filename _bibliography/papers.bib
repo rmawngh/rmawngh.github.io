@@ -9,7 +9,7 @@
     volume={},
     number={},
     pages={1-1},
-    doi={10.1109/ACCESS.2023.3241348}}
+    doi={10.1109/ACCESS.2023.3241348},
     abstract  = {Old photos that were captured about a century ago have archaeological and historical significance. Many of the old photos have been successfully digitized, but most of them suffer from severe and complicated distortion. Thus, prior studies have focused on image restoration tasks such as denoising, inpainting, and colorization. In this paper, we pay attention to the depth estimation of old photos, enabling a more enjoyable appreciation of them and helping better understand past human life, activities, and environments. Because most old photos are available as single-view images, monocular depth estimation techniques can be considered a solution. However, most high-performance techniques are based on supervised learning, which requires ground-truth depth maps. Because this kind of supervised learning is not feasible for old photos, in this paper, we present a learning framework that finetunes a pretrained monocular depth estimation network for each old photo. Specifically, the pretrained monocular depth estimation network predicts stereo depth maps for stereo image rendering. Then, the pretrained stereo network predicts depth estimates from the rendered stereo image pair. By extracting reliable depth estimates and using them for supervision of the monocular network, the monocular network can be gradually learned to produce a high-quality depth map of the given old photo. From the qualitative and quantitative performance evaluations on old photos, we demonstrate the effectiveness of the proposed method.},
     abbr      = {IEEE Access},
     code      = {https://github.com/rmawngh/Old-Photo-3D},
