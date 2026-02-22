@@ -8,8 +8,7 @@ profile:
   align: right
   image: JuhoKim.JPG
   address: >
-    <p>73-15, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea 02855</p>
-    <p>Room#402</p>
+    <p>129, Samsung-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do, Republic of Korea</p>
 
 news: true  # includes a list of news items
 education: true # includes a list of education items
