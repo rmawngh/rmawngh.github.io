@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: M.S. student in the <a href='https://sites.google.com/view/deepiplab/home?authuser=0'>Deep Image Processing Lab</a> at <a href='https://www.korea.ac.kr'>Korea University</a>. 
+subtitle: Engineer at Samsung Electronics (2D-to-3D Conversion: Efficient dense prediction(depth estimation) for image/video, Oct,2023 ~ present)
 
 profile:
   align: right
@@ -19,10 +19,13 @@ honors: false
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a graduate student in the [Deep Image Processing Lab](https://sites.google.com/view/deepiplab/home?authuser=0), advised by Prof. [Seung-Won Jung](https://sites.google.com/view/deepiplab/home?authuser=0). I am currently pursuing the MS degree in Electrical Engineering at [Korea University](www.korea.ac.kr) in Seoul, Korea. Previously, I completed my B.S. in Multimedia Engineering at [Dongguk University](https://www.dongguk.edu/main#none). My research interests are :
+I received my M.S. degree in Electrical Engineering from [Korea University](www.korea.ac.kr), where I was advised by Prof. [Seung-Won Jung](https://sites.google.com/view/deepiplab/home?authuser=0) at the [Deep Image Processing Lab](https://sites.google.com/view/deepiplab/home?authuser=0). Prior to that, I completed my B.S. in Multimedia Engineering at [Dongguk University](https://www.dongguk.edu/main#none).
+Currently, I am an Engineer at Samsung Electronics, focusing on 2D-to-3D conversion and efficient dense prediction (depth estimation) for images and videos.
+
+My research interests are :
 - Computer Vision
-- Depth estimation
-- Object Detection
+- Depth Estimation
+- Model Compression & PEFT
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
