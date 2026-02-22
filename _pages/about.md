@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Engineer at Samsung Electronics (2D-to-3D Conversion: Efficient dense prediction(depth estimation) for image/video, Oct,2023 ~ present)
+subtitle: "Engineer at Samsung Electronics (2D-to-3D Conversion: Efficient dense prediction(depth estimation) for image/video, Oct,2023 ~ present)"
 
 profile:
   align: right
