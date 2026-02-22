@@ -18,7 +18,7 @@ honors: false
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Engineer at Samsung Electronics, where I specialize in 2D-to-3D conversion and efficient dense prediction (depth estimation) for images and videos.
+I am an Engineer at Samsung Electronics, working on 2D-to-3D conversion and advanced depth estimation techniques for images and videos.
 I received my M.S. degree in Electrical Engineering from [Korea University](www.korea.ac.kr), advised by Prof. [Seung-Won Jung](https://sites.google.com/view/deepiplab/home?authuser=0) at the [Deep Image Processing Lab](https://sites.google.com/view/deepiplab/home?authuser=0). Prior to that, I earned my B.S. in Multimedia Engineering at [Dongguk University](https://www.dongguk.edu/main#none).
 
 My research interests are :
