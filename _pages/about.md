@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: "Engineer at Samsung Electronics(Oct,2023 ~ present)<br>2D-to-3D Conversion: Efficient dense prediction(depth estimation) for image/video"
+subtitle: "Engineer at Samsung Electronics(Oct,2023 - present)<br>2D-to-3D Conversion: Efficient dense prediction(depth estimation) for image/video"
 
 profile:
   align: right
@@ -18,8 +18,8 @@ honors: false
 social: true  # includes social icons at the bottom of the page
 ---
 
-I received my M.S. degree in Electrical Engineering from [Korea University](www.korea.ac.kr), where I was advised by Prof. [Seung-Won Jung](https://sites.google.com/view/deepiplab/home?authuser=0) at the [Deep Image Processing Lab](https://sites.google.com/view/deepiplab/home?authuser=0). Prior to that, I completed my B.S. in Multimedia Engineering at [Dongguk University](https://www.dongguk.edu/main#none).
-Currently, I am an Engineer at Samsung Electronics, focusing on 2D-to-3D conversion and efficient dense prediction (depth estimation) for images and videos.
+I am an Engineer at Samsung Electronics, where I specialize in 2D-to-3D conversion and efficient dense prediction (depth estimation) for images and videos.
+I received my M.S. degree in Electrical Engineering from [Korea University](www.korea.ac.kr), advised by Prof. [Seung-Won Jung](https://sites.google.com/view/deepiplab/home?authuser=0) at the [Deep Image Processing Lab](https://sites.google.com/view/deepiplab/home?authuser=0). Prior to that, I earned my B.S. in Multimedia Engineering at [Dongguk University](https://www.dongguk.edu/main#none).
 
 My research interests are :
 - Computer Vision
